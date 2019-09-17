@@ -1,0 +1,125 @@
+/* body {
+    margin: 0px;
+    padding: 0px;
+}
+.inicio {
+    background-color: rgb(248, 231, 246);
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+.imgLogo {  
+    height: 65px;
+    margin-left: 105px;
+}
+.navegador {
+    margin-right: 145px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    padding: 10px;
+}
+.navegador li {
+    margin-left: 68px;
+    list-style-type: none;
+}
+.navegador li a {
+    text-decoration: none;
+    color: brown;
+}
+.separador {
+    height: 1px;
+    width: 100vw;
+    background-color: rgb(88, 57, 85);
+}
+section {
+    background-image: url(imagenes/backgroundHome.png);
+    background-repeat: no-repeat;
+    background-color: rgb(235, 209, 232);
+    width: 100vw;
+    height: 65vh;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    
+}
+section article h1{
+    margin: 0px;
+} */
+body {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: rgb(243, 217, 242);
+    height: 7vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.imgLogo{
+    
+    
+    
+}
+.navegador {
+    width: 475px;
+    height: 35px;
+    background-color: aquamarine;
+   
+}
+
+
+.separador {
+    height: 1px;
+    background-color: brown;
+}
+section {
+    background-color: aquamarine;
+    height: 65vh;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-top: 155px;
+    padding-right: 155px;
+    
+}
+.h1 {
+    width: 34px;
+    height: 25px;
+    background-color: rgb(75, 58, 167);
+}
+.articleOne{
+    width: 75px;
+    height: 35px;
+    background-color: rgb(255, 127, 191);
+}
+.articleButton {
+    width: 75px;
+    height: 30px;
+    background-color: rgb(27, 62, 128);
+}
+footer {
+    background-color: rebeccapurple;  
+    height: 15vh;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.fContacto {
+    width: 65px;
+    height: 35px;
+    background-color: rgb(29, 148, 108);
+    
+}
+.fRedes {
+    width: 65px;
+    height: 35px;
+    background-color: rgb(131, 255, 127);
+    
+}
